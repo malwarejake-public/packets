@@ -1,0 +1,7 @@
+frame contains bash and http.request.method == GET
+
+frame contains m4rb1ep7g8xo4f0dudz5torxcoih68wwomchz7nw
+
+frame contains 7dlwazyspt69d09y3y8q290il9r2ft5hx8l38twiX
+
+frame contains %20and%20'3816'%3d'3821 
